@@ -1,12 +1,28 @@
+<div align="center">
+ <img alt="asisddos" height="200px" src="https://github.com/eusuntasis/AsisDDOS/blob/main/assets/3e83108d-511f-4d57-ab3d-1a8b93b096ce.png">
+</div>
+
 # AsisDDOS
-a simple ddos script using python
+* A simple DDOS script for begginers!
 
-# Install
+# Linux
+```
+sudo apt-get install git
+```
+```
+cd Desktop (or what u want)
+```
+```
+git clone https://github.com/eusuntasis/AsisDDOS.git
+```
+```
+sudo apt install python3
+```
+```
+python3 asisddos.py
+```
 
-- git clone https://github.com/eusuntasis/AsisDDOS.git
-- cd AsisDDOS
-- python3 asisddos.py
-
-# How to use
+> [!NOTE]
+> Only in eductional purposes.
 
 -![Screenshot from 2024-09-15 08-27-57](https://github.com/user-attachments/assets/164842eb-bbec-40c9-aa87-2e6ca0968efd)
