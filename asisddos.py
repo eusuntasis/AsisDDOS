@@ -13,7 +13,7 @@ title = '''
   ░   ▒   ░  ░  ░   ▒ ░░  ░  ░      ░ ░  ░  ░ ░  ░ ░ ░ ░ ▒  ░  ░  ░  
       ░  ░      ░   ░        ░        ░       ░        ░ ░        ░  
                                     ░       ░                        
-TG: @notursisu                              (ASIS DDos Tool)
+TG: @asistherooted                                   (ASIS DDos Tool)
 GitHub: https://github.com/eusuntasis/
 
  '''
