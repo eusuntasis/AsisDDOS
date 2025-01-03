@@ -5,18 +5,9 @@
 # AsisDDOS
 * A simple DDOS script for begginers!
 
-# Linux
-```
-sudo apt-get install git
-```
-```
-cd Desktop (or what u want)
-```
+# Instalation
 ```
 git clone https://github.com/eusuntasis/AsisDDOS.git
-```
-```
-sudo apt install python3
 ```
 ```
 python3 asisddos.py
